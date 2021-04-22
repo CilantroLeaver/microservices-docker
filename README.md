@@ -10,8 +10,7 @@ A basic Node.js "Hello World" web app which demonstrates the ability of a Bash s
 **Use:**  
 1. Copy ```newMicroServ.sh``` to a local directory  
 2. Add your user to the docker group with ```sudo usermod -aG docker <username>```  
-3. Run the script  
-4. Note the port number which the script outputs  
-5. View web app at ```http://<your_ipv4_address>:<output_port>```  
-6. Get Docker image ID with ```docker ps```  
-7. Stop Docker image with ```docker stop <image_ID>```
+3. Run the script and note the port number which the script outputs  
+4. View web app at ```http://<your_ipv4_address>:<output_port>```  
+5. Get Docker image ID with ```docker ps```  
+6. Stop Docker image with ```docker stop <image_ID>```
