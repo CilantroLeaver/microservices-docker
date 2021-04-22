@@ -1,4 +1,4 @@
-# Automated Docker Image Creation  
+# Automated Docker Images  
 
 A basic Node.js "Hello World" web app which demonstrates the ability of a Bash script to spin up Docker images. 
 
